@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             content: AwesomeSnackbarContent(
                               title: "Pressed Add Button",
                               message: "Yo ! You Pressed Add Button",
-                              contentType: ContentType.,
+                              contentType: ContentType.success,
                               inMaterialBanner: true,
                             ),
                             actions: [SizedBox.shrink()],
